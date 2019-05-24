@@ -20,3 +20,6 @@ Files: index.html + app.v4.js
 
 5. Removing & Replacing Elements. <br>
 Files: index.html + app.v5.js
+
+6. Event Listeners & The Event Object. <br>
+Files: index.html + app.v6.js
