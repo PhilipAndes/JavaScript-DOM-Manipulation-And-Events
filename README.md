@@ -26,3 +26,6 @@ Files: index.html + app.v6.js
 
 7. Event Bubbling & Delegation. <br>
 Files: index.html + app.v7.js
+
+8. Local & Session Storage. <br>
+Files: index.html + app.v8.js
