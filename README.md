@@ -14,3 +14,6 @@ Files: index.html + app.v2.js
 
 3. Traversing The DOM (Parents / Children). <br>
 Files: index.html + app.v3.js
+
+4. Creating Elements. <br>
+Files: index.html + app.v4.js
