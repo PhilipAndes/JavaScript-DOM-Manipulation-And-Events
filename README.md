@@ -4,6 +4,8 @@
 
 - Information about DOM manipulation and events.
 
+- Notice: Comment out the right script in the index.html for each lesson!
+
 <b>In this course:</b>
 
 1. DOM Selectors For Single Elements. <br>
