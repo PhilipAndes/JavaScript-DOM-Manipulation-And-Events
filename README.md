@@ -17,3 +17,6 @@ Files: index.html + app.v3.js
 
 4. Creating Elements. <br>
 Files: index.html + app.v4.js
+
+5. Removing & Replacing Elements. <br>
+Files: index.html + app.v5.js
