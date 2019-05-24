@@ -23,3 +23,6 @@ Files: index.html + app.v5.js
 
 6. Event Listeners & The Event Object. <br>
 Files: index.html + app.v6.js
+
+7. Event Bubbling & Delegation. <br>
+Files: index.html + app.v7.js
