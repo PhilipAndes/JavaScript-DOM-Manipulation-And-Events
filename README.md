@@ -8,3 +8,6 @@
 
 1. DOM Selectors For Single Elements. <br>
 Files: index.html + app.v1.js
+
+2. DOM Selectors For Multiple Elements. <br>
+Files: index.html + app.v2.js
