@@ -8,26 +8,26 @@
 
 <b>In this course:</b>
 
-1. DOM Selectors For Single Elements. <br>
+1. <b>DOM Selectors For Single Elements.</b><br>
 Files: index.html + app.v1.js
 
-2. DOM Selectors For Multiple Elements. <br>
+2. <b>DOM Selectors For Multiple Elements.</b><br>
 Files: index.html + app.v2.js
 
-3. Traversing The DOM (Parents / Children). <br>
+3. <b>Traversing The DOM (Parents / Children).</b><br>
 Files: index.html + app.v3.js
 
-4. Creating Elements. <br>
+4. <b>Creating Elements.</b><br>
 Files: index.html + app.v4.js
 
-5. Removing & Replacing Elements. <br>
+5. <b>Removing & Replacing Elements.</b><br>
 Files: index.html + app.v5.js
 
-6. Event Listeners & The Event Object. <br>
+6. <b>Event Listeners & The Event Object.</b><br>
 Files: index.html + app.v6.js
 
-7. Event Bubbling & Delegation. <br>
+7. <b>Event Bubbling & Delegation.</b><br>
 Files: index.html + app.v7.js
 
-8. Local & Session Storage. <br>
+8. <b>Local & Session Storage.</b><br>
 Files: index.html + app.v8.js
