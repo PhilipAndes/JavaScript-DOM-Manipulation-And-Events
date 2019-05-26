@@ -2,7 +2,7 @@
 
 - Started Coding: December 2018.
 
-- Information about DOM manipulation and events.
+- DOM manipulation and events.
 
 - Notice: Comment out the right script in the index.html for each lesson!
 
